@@ -269,7 +269,7 @@
 <p class="hint" id="hint">Click squares to mark them</p>
 
 <script>
-  const FREE_LABEL = "FREE\nTouch Brain";
+  const FREE_LABELS = { annalina: "FREE\nTouch Brain", pretham: "Think about\nAnnalina ⭐" };
   const FREE_INDEX = 12;
 
   let board = [];
@@ -320,7 +320,7 @@
     board = [];
     for (let i = 0; i < 25; i++) {
       if (i === FREE_INDEX) {
-        board.push({ label: FREE_LABEL, marked: true, free: true });
+        board.push({ label: FREE_LABELS[activeTab], marked: true, free: true });
       } else {
         const idx = i < FREE_INDEX ? i : i - 1;
         board.push({ label: picked[idx], marked: false, free: false });

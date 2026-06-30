@@ -30,9 +30,30 @@ window.BINGO_SQUARES_ANNALINA = [
   "Day 2 LFB Staining",
 ];
 
-// ─── Pretham's squares — add at least 24 below ───────────────────────────────
+// ─── Pretham's squares ───────────────────────────────────────────────────────
 window.BINGO_SQUARES_PRETHAM = [
-  // "Example Square 1",
-  // "Example Square 2",
-  // ... add your squares here
+  "Passion Project",
+  "Wears Tshorts",
+  "Investing / Make a Trade",
+  "Board Games",
+  "Listen to Lil Tecca",
+  "Facetime Lovely Girlfriend",
+  "Hack into Mainframe (use terminal)",
+  "Bug in Code",
+  "Touch Grass",
+  "Fills Water Bottle 2x",
+  "Work Email",
+  "Protein Milk",
+  "Vibe Code",
+  "Freshly Short",
+  "Read a Book",
+  "Eat Dosa",
+  "See an NBA Tweet",
+  "Video Gaming",
+  "Dheeraj Moment",
+  "Unproductive YouTube Video",
+  "Villa Sport",
+  "College Apps",
+  "Knee Isometric",
+  "To-Do List",
 ];
