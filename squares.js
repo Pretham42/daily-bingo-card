@@ -28,6 +28,7 @@ window.BINGO_SQUARES_ANNALINA = [
   "Block/Slide Filing",
   "Drive the Mustang",
   "Day 2 LFB Staining",
+  "Uses Yurt Emoji",
 ];
 
 // ─── Pretham's squares ───────────────────────────────────────────────────────
@@ -45,7 +46,7 @@ window.BINGO_SQUARES_PRETHAM = [
   "Work Email",
   "Protein Milk",
   "Vibe Code",
-  "Freshly Short",
+  "Freshly Shorn",
   "Read a Book",
   "Eat Dosa",
   "See an NBA Tweet",
@@ -56,4 +57,6 @@ window.BINGO_SQUARES_PRETHAM = [
   "College Apps",
   "Knee Isometric",
   "To-Do List",
+  "Ran Out of Claude Credits",
+  "Uses Yurt Emoji",
 ];
